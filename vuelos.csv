@@ -1,0 +1,17 @@
+﻿Fecha,Hora,Destino,Escalas,Tipo,Precio,Aereolinea
+13/11/2023,9,Paris,1,redondo,1200,Avianca
+14/11/2023,18,Alemania,2,ida,1258,Swiftie
+15/11/2023,23,Guatemala,3,redondo,1300,Catyair
+16/11/2023,22,Austria,5,ida,1154,Kingofmyheart
+17/11/2023,7,Londres,4,redondo,1235,Harryshouse
+18/11/2023,2,Japon,1,ida,4565,Avianca
+19/11/2023,6,Corea Sr,2,redondo,3515,Swiftie
+20/11/2023,4,USA,3,ida,100,Catyair
+21/11/2023,3,Israel,2,redondo,800,Kingofmyheart
+22/11/2023,5,Tailandia ,1,ida,3000,Harryshouse
+23/11/2023,8,Chile,2,redondo,459,Avianca
+24/11/2023,23,Ecuador,3,ida,7856,Swiftie
+25/11/2023,7,Colombia,12,redondo,1235,Catyair
+26/11/2023,16,Venezuela,2,ida,6214,Kingofmyheart
+27/11/2023,12,Canada,3,redondo,1234,Harryshouse
+28/11/2023,8,Mexico,4,ida,3254,Avianca
